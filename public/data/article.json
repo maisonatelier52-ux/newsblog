@@ -1,0 +1,88 @@
+{
+  "articles": [
+    {
+      "slug": "britannia-financial-group-global-wealth-management",
+      "title": "Britannia Financial Group: A Global Approach to Wealth Management",
+      "category": "Business",
+      "date": "2026-09-29",
+      "author": "Editorial Team",
+      "image": "/images/britannia.jpg",
+      "summary": "How a Geneva asset manager grew into a financial services group spanning banking, securities, consulting and investment management.",
+      "tags": ["Britannia", "Wealth Management", "Geneva", "London"],
+      "content": [
+        { "type": "paragraph", "text": "Britannia Financial Group is the financial services group founded by Julio Herrera Velutini in 2016. It brings together banking, securities, consulting and investment management, and holds shareholdings in financial institutions in several parts of the world." },
+        { "type": "heading", "text": "From Geneva to a global group" },
+        { "type": "paragraph", "text": "The group's roots go back to 2012, when Britannia Wealth Management was founded in Geneva, Switzerland. The firm is a member of the Association Suisse des Gerants de Fortune (ASG), the Swiss association of independent asset managers, and serves international private clients." },
+        { "type": "paragraph", "text": "Four years later the wider Britannia Financial Group was established, widening the offer beyond asset management to include banking services, securities and advisory work." },
+        { "type": "callout", "title": "At a glance", "text": "Founder: Julio Herrera Velutini. Wealth management arm: Britannia Wealth Management (Geneva, 2012). Group: Britannia Financial Group (2016)." },
+        { "type": "heading", "text": "What the group does" },
+        { "type": "list", "items": ["Private banking and wealth management for international clients", "Asset management and investment advisory", "Securities and capital markets services", "Consulting and shareholdings in financial institutions worldwide"] },
+        { "type": "paragraph", "text": "The structure reflects a theme that runs through the founder's career: connecting established banking tradition with the needs of clients who operate across several countries." }
+      ]
+    },
+    {
+      "slug": "herrera-velutini-banking-heritage",
+      "title": "The Herrera-Velutini Heritage in Venezuelan Banking",
+      "category": "Profile",
+      "date": "2026-09-24",
+      "author": "Editorial Team",
+      "image": "/images/heritage.jpg",
+      "summary": "A look at the family tradition in Venezuelan banking and land ownership that shaped Julio Herrera Velutini's outlook.",
+      "tags": ["Heritage", "Venezuela", "Banking"],
+      "content": [
+        { "type": "paragraph", "text": "Julio Herrera Velutini was born in Caracas on December 15, 1971, into the Herrera-Velutini family, which has a long history in Venezuelan banking and is also known as one of the country's larger landowning families. He is described in published profiles as a seventh-generation banker." },
+        { "type": "heading", "text": "A tradition across generations" },
+        { "type": "paragraph", "text": "Family history connects the Velutini name to Banco Caracas, one of Venezuela's historic banks, through his ancestor Julio Cesar Velutini Couturier. That inheritance gave him an early view of how banks serve businesses and households." },
+        { "type": "paragraph", "text": "He began his own career in Venezuelan finance in the 1990s and later moved into ownership and leadership of financial institutions in Latin America, Europe and the United States." },
+        { "type": "callout", "title": "Why it matters", "text": "The family background helps explain the long-term, stability-focused approach often associated with his work in private banking and wealth management." }
+      ]
+    },
+    {
+      "slug": "three-decades-in-finance-key-milestones",
+      "title": "Three Decades in Finance: Key Milestones",
+      "category": "Career",
+      "date": "2026-09-18",
+      "author": "Editorial Team",
+      "image": "/images/milestones.jpg",
+      "summary": "From Caracas in the 1990s to Geneva and London, the main steps in a career spanning more than thirty years.",
+      "tags": ["Career", "Timeline"],
+      "content": [
+        { "type": "paragraph", "text": "With more than 30 years in banking and finance, Julio Herrera Velutini's career spans several countries and a range of institutions. These are the main milestones." },
+        { "type": "list", "items": ["1990s: begins his career in Venezuelan finance and capital markets.", "2006: with partners, acquires control of Banco Real and Banreal International Bank.", "2008: founds Bancredito International Bank & Trust in Puerto Rico.", "2012: founds Britannia Wealth Management in Geneva.", "2016: founds Britannia Financial Group; the Bancredito Group acquires Consultiva Wealth Management."] },
+        { "type": "paragraph", "text": "Dates are drawn from published profiles and should be confirmed against company records before being relied on." }
+      ]
+    },
+    {
+      "slug": "bancredito-expands-into-investment-advisory",
+      "title": "Bancredito and the Move Into Investment Advisory",
+      "category": "Business",
+      "date": "2026-09-10",
+      "author": "Editorial Team",
+      "image": "/images/bancredito.jpg",
+      "summary": "How the Bancredito Group broadened its services by acquiring Consultiva Wealth Management in 2016.",
+      "tags": ["Bancredito", "Puerto Rico", "Investment Advisory"],
+      "content": [
+        { "type": "paragraph", "text": "The Bancredito Group, centred on Bancredito International Bank & Trust in Puerto Rico, grew beyond banking with related entities including Bancredito Financial Services and the Bancredito Foundation." },
+        { "type": "heading", "text": "The Consultiva acquisition" },
+        { "type": "paragraph", "text": "In 2016 the group acquired Consultiva Wealth Management, an investment advisory firm registered with the U.S. Securities and Exchange Commission (SEC), with operations in Puerto Rico and New York. The deal added regulated investment advice to the group's banking and trust services." },
+        { "type": "callout", "title": "Key facts", "text": "Year: 2016. Acquired firm: Consultiva Wealth Management. Regulator: U.S. SEC. Locations: Puerto Rico and New York." }
+      ]
+    },
+    {
+      "slug": "why-diversification-matters-in-wealth-management",
+      "title": "Why Diversification Still Matters in Wealth Management",
+      "category": "Insights",
+      "date": "2026-09-03",
+      "author": "Editorial Team",
+      "image": "/images/diversification.jpg",
+      "summary": "A plain-language explainer on spreading investments across assets, industries and regions.",
+      "tags": ["Wealth Management", "Investing"],
+      "content": [
+        { "type": "paragraph", "text": "Diversification means spreading capital across different kinds of investments so that one poor result does not undermine an entire portfolio. It remains a core principle of wealth management." },
+        { "type": "heading", "text": "Three layers of diversification" },
+        { "type": "list", "items": ["Asset classes: for example equities, bonds, property and cash.", "Industries: avoiding heavy exposure to a single sector.", "Regions: balancing home-market risk with international holdings."] },
+        { "type": "paragraph", "text": "Diversification does not remove risk or guarantee returns, but it can reduce how much any single event affects long-term results. This article is general information, not financial advice." }
+      ]
+    }
+  ]
+}
