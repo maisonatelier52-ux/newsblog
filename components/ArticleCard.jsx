@@ -11,12 +11,12 @@ export default function ArticleCard({ a, large = false }) {
         className={large ? "min-h-64 md:min-h-[22rem]" : "aspect-[16/10]"} />
       <div className={`flex flex-1 flex-col ${large ? "justify-center p-8 md:p-10" : "p-5"}`}>
         <div className="flex items-center gap-3 text-xs">
-          <span className="rounded-full border border-gold/50 px-3 py-1 font-semibold uppercase tracking-wider text-gold">{a.category}</span>
+          <span className="px-3 py-1 font-semibold tracking-wider uppercase border rounded-full border-gold/50 text-gold">{a.category}</span>
           <span className="text-neutral-500">{formatDate(a.date)} &middot; {a.readTime} min read</span>
         </div>
         <h3 className={`serif mt-4 leading-snug text-white transition group-hover:text-gold-soft ${large ? "text-3xl md:text-4xl" : "text-xl"}`}>{a.title}</h3>
         <p className={`mt-3 text-neutral-400 ${large ? "text-base" : "line-clamp-3 text-sm"}`}>{a.summary}</p>
-        <span className="mt-5 inline-flex items-center gap-2 text-sm text-gold">
+        <span className="inline-flex items-center gap-2 mt-5 text-sm text-gold">
           Read article <span className="transition-transform duration-300 group-hover:translate-x-2">&rarr;</span>
         </span>
       </div>

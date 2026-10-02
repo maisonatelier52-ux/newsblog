@@ -4,9 +4,9 @@
 
 :root { color-scheme: dark; }
 html { scroll-behavior: smooth; }
-body { @apply bg-black text-neutral-200 antialiased; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+body { @apply antialiased bg-black text-neutral-200; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
 .serif { font-family: Georgia, "Times New Roman", serif; }
-.section { @apply mx-auto max-w-6xl px-5 py-16 sm:py-24; }
+.section { @apply max-w-6xl px-5 py-16 mx-auto sm:py-24; }
 .eyebrow { @apply text-xs font-semibold uppercase tracking-[0.25em] text-gold; }
 
 /* Scroll reveal (slide / fade in) */

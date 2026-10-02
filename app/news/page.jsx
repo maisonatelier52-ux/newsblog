@@ -8,8 +8,8 @@ export default function NewsPage() {
   return (
     <section className="section">
       <p className="eyebrow">News</p>
-      <h1 className="serif mt-3 text-4xl text-white sm:text-5xl">Latest News</h1>
-      <p className="mt-4 max-w-2xl text-neutral-400">Stories, profiles and insights. Select any article to read it in full.</p>
+      <h1 className="mt-3 text-4xl text-white serif sm:text-5xl">Latest News</h1>
+      <p className="max-w-2xl mt-4 text-neutral-400">Stories, profiles and insights. Select any article to read it in full.</p>
       {articles.length ? <NewsBrowser articles={articles} /> : <p className="mt-10 text-neutral-400">No articles yet.</p>}
     </section>
   );

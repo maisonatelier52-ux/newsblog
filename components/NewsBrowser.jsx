@@ -11,7 +11,7 @@ export default function NewsBrowser({ articles }) {
 
   return (
     <>
-      <div className="mt-8 flex flex-wrap gap-2">
+      <div className="flex flex-wrap gap-2 mt-8">
         {cats.map((c) => (
           <button key={c} onClick={() => setCat(c)}
             className={`rounded-full border px-4 py-1.5 text-sm transition ${c === cat ? "border-gold bg-gold text-black" : "border-white/15 text-neutral-300 hover:border-gold hover:text-gold"}`}>
@@ -22,7 +22,7 @@ export default function NewsBrowser({ articles }) {
       {first ? (
         <div key={cat}>
           <Reveal className="mt-10"><ArticleCard a={first} large /></Reveal>
-          <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 mt-8 sm:grid-cols-2 lg:grid-cols-3">
             {rest.map((a, i) => <Reveal key={a.slug} delay={(i % 3) * 100}><ArticleCard a={a} /></Reveal>)}
           </div>
         </div>
