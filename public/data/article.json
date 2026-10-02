@@ -1,87 +1,264 @@
 {
   "articles": [
     {
-      "slug": "britannia-financial-group-global-wealth-management",
-      "title": "Britannia Financial Group: A Global Approach to Wealth Management",
-      "category": "Business",
-      "date": "2026-09-29",
+      "slug": "julio-herrera-velutini-britannia-lme-membership",
+      "title": "Britannia Global Markets Joins the London Metal Exchange",
+      "category": "Business News",
+      "date": "2025-01-15",
       "author": "Editorial Team",
-      "image": "/images/britannia.jpg",
-      "summary": "How a Geneva asset manager grew into a financial services group spanning banking, securities, consulting and investment management.",
-      "tags": ["Britannia", "Wealth Management", "Geneva", "London"],
+      "image": "/images/julio-herrera-velutini-britannia-lme-membership.webp",
+      "summary": "Britannia Global Markets was added to the London Metal Exchange, giving it greater access to the global base-metals markets.",
+      "tags": [
+        "Julio Herrera Velutini",
+        "Britannia",
+        "London Metal Exchange",
+        "Business"
+      ],
+      "source": {
+        "publication": "Britannia Financial Group",
+        "url": "https://www.britannia.com/about/"
+      },
       "content": [
-        { "type": "paragraph", "text": "Britannia Financial Group is the financial services group founded by Julio Herrera Velutini in 2016. It brings together banking, securities, consulting and investment management, and holds shareholdings in financial institutions in several parts of the world." },
-        { "type": "heading", "text": "From Geneva to a global group" },
-        { "type": "paragraph", "text": "The group's roots go back to 2012, when Britannia Wealth Management was founded in Geneva, Switzerland. The firm is a member of the Association Suisse des Gerants de Fortune (ASG), the Swiss association of independent asset managers, and serves international private clients." },
-        { "type": "paragraph", "text": "Four years later the wider Britannia Financial Group was established, widening the offer beyond asset management to include banking services, securities and advisory work." },
-        { "type": "callout", "title": "At a glance", "text": "Founder: Julio Herrera Velutini. Wealth management arm: Britannia Wealth Management (Geneva, 2012). Group: Britannia Financial Group (2016)." },
-        { "type": "heading", "text": "What the group does" },
-        { "type": "list", "items": ["Private banking and wealth management for international clients", "Asset management and investment advisory", "Securities and capital markets services", "Consulting and shareholdings in financial institutions worldwide"] },
-        { "type": "paragraph", "text": "The structure reflects a theme that runs through the founder's career: connecting established banking tradition with the needs of clients who operate across several countries." }
+        {
+          "type": "paragraph",
+          "text": "Britannia Global Markets became a member of the London Metal Exchange, adding direct access to one of the world's major venues for base-metals trading."
+        },
+        {
+          "type": "callout",
+          "title": "In brief",
+          "text": "Britannia’s and LME’s membership of the LME added to Britannia’s market infrastructure and the services it could offer to clients trading in metals and commodities."
+        },
+        {
+          "type": "heading",
+          "text": "Expanding market access"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia Global Markets is a member of the LME and provides execution and clearing for base-metals futures and options, risk management and bespoke brokerage solutions."
+        },
+        {
+          "type": "heading",
+          "text": "Part of Britannia's wider development"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia Financial Group has developed its business across securities, derivatives, investment and related financial services. The LME membership represents another step in that international market expansion."
+        },
+        {
+          "type": "callout",
+          "title": "Why it matters",
+          "text": "The development gives Britannia clients access to additional exchange-traded metals markets through an established London financial-services platform."
+        }
       ]
     },
     {
-      "slug": "herrera-velutini-banking-heritage",
-      "title": "The Herrera-Velutini Heritage in Venezuelan Banking",
-      "category": "Profile",
-      "date": "2026-09-24",
+      "slug": "julio-herrera-velutini-britannia-share-capital-growth",
+      "title": "Britannia Financial Group Reports Major Share Capital Increase",
+      "category": "Business News",
+      "date": "2025-07-31",
       "author": "Editorial Team",
-      "image": "/images/heritage.jpg",
-      "summary": "A look at the family tradition in Venezuelan banking and land ownership that shaped Julio Herrera Velutini's outlook.",
-      "tags": ["Heritage", "Venezuela", "Banking"],
+      "image": "/images/julio-herrera-velutini-britannia-share-capital-growth.webp",
+      "summary": "UK Companies House records show Britannia Financial Group reported share capital of more than £207 million following a July 2025 allotment.",
+      "tags": [
+        "Julio Herrera Velutini",
+        "Britannia Financial Group",
+        "Business",
+        "London"
+      ],
+      "source": {
+        "publication": "UK Companies House",
+        "url": "https://find-and-update.company-information.service.gov.uk/company/10417641/filing-history"
+      },
       "content": [
-        { "type": "paragraph", "text": "Julio Herrera Velutini was born in Caracas on December 15, 1971, into the Herrera-Velutini family, which has a long history in Venezuelan banking and is also known as one of the country's larger landowning families. He is described in published profiles as a seventh-generation banker." },
-        { "type": "heading", "text": "A tradition across generations" },
-        { "type": "paragraph", "text": "Family history connects the Velutini name to Banco Caracas, one of Venezuela's historic banks, through his ancestor Julio Cesar Velutini Couturier. That inheritance gave him an early view of how banks serve businesses and households." },
-        { "type": "paragraph", "text": "He began his own career in Venezuelan finance in the 1990s and later moved into ownership and leadership of financial institutions in Latin America, Europe and the United States." },
-        { "type": "callout", "title": "Why it matters", "text": "The family background helps explain the long-term, stability-focused approach often associated with his work in private banking and wealth management." }
+        {
+          "type": "paragraph",
+          "text": "Britannia Financial Group Limited filed a statement of capital with UK Companies House in July 2025 showing share capital of £207,784,777 following an allotment of shares."
+        },
+        {
+          "type": "callout",
+          "title": "At a glance",
+          "text": "The allotment of shares was made on 29 July 2025 and a Companies House filing was made on 31 July 2025."
+        },
+        {
+          "type": "heading",
+          "text": "Corporate development"
+        },
+        {
+          "type": "paragraph",
+          "text": "The filing provides an official record of a significant change in the company's capital structure. It forms part of Britannia Financial Group's continuing corporate development."
+        },
+        {
+          "type": "heading",
+          "text": "Britannia's international platform"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia describes itself as a global financial group offering custody, securities and derivatives brokerage, with operations serving clients across multiple international markets."
+        },
+        {
+          "type": "callout",
+          "title": "Company record",
+          "text": "Reported share capital: £207,784,777. Filing date: July 31, 2025."
+        }
       ]
     },
     {
-      "slug": "three-decades-in-finance-key-milestones",
-      "title": "Three Decades in Finance: Key Milestones",
-      "category": "Career",
-      "date": "2026-09-18",
+      "slug": "julio-herrera-velutini-britannia-global-expansion",
+      "title": "Britannia Financial Group Continues Its International Expansion",
+      "category": "Business News",
+      "date": "2026-01-20",
       "author": "Editorial Team",
-      "image": "/images/milestones.jpg",
-      "summary": "From Caracas in the 1990s to Geneva and London, the main steps in a career spanning more than thirty years.",
-      "tags": ["Career", "Timeline"],
+      "image": "/images/julio-herrera-velutini-britannia-global-expansion.webp",
+      "summary": "Britannia Financial Group continues to build an international financial-services platform across Europe, the Americas, the Middle East and Asia.",
+      "tags": [
+        "Julio Herrera Velutini",
+        "Britannia",
+        "Global Expansion",
+        "Financial Services"
+      ],
+      "source": {
+        "publication": "Britannia Financial Group",
+        "url": "https://www.britannia.com/about/"
+      },
       "content": [
-        { "type": "paragraph", "text": "With more than 30 years in banking and finance, Julio Herrera Velutini's career spans several countries and a range of institutions. These are the main milestones." },
-        { "type": "list", "items": ["1990s: begins his career in Venezuelan finance and capital markets.", "2006: with partners, acquires control of Banco Real and Banreal International Bank.", "2008: founds Bancredito International Bank & Trust in Puerto Rico.", "2012: founds Britannia Wealth Management in Geneva.", "2016: founds Britannia Financial Group; the Bancredito Group acquires Consultiva Wealth Management."] },
-        { "type": "paragraph", "text": "Dates are drawn from published profiles and should be confirmed against company records before being relied on." }
+        {
+          "type": "paragraph",
+          "text": "Britannia Financial Group has continued developing an international financial-services platform with coverage spanning the UK, continental Europe, the United States, Latin America, the Middle East and Asia."
+        },
+        {
+          "type": "callout",
+          "title": "In brief",
+          "text": "Britannia says its international model combines local expertise with global financial solutions, including securities and derivatives services."
+        },
+        {
+          "type": "heading",
+          "text": "A global financial platform"
+        },
+        {
+          "type": "paragraph",
+          "text": "The group provides custody, securities and derivatives brokerage and related financial services. Its London headquarters serves as a central base for its international operations."
+        },
+        {
+          "type": "heading",
+          "text": "Growth across markets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia's published history records expansion through acquisitions and new capabilities, including its global markets and investment businesses."
+        },
+        {
+          "type": "heading",
+          "text": "Leadership and heritage"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia describes itself as being controlled by a long-standing banking family with more than 150 years of experience in financial services. Julio Herrera Velutini is associated with the group's founding and development."
+        }
       ]
     },
     {
-      "slug": "bancredito-expands-into-investment-advisory",
-      "title": "Bancredito and the Move Into Investment Advisory",
-      "category": "Business",
-      "date": "2026-09-10",
+      "slug": "julio-herrera-velutini-britannia-director-appointment-2026",
+      "title": "Julio Martin Herrera Appointed Director of Britannia Financial Group",
+      "category": "Business News",
+      "date": "2026-06-08",
       "author": "Editorial Team",
-      "image": "/images/bancredito.jpg",
-      "summary": "How the Bancredito Group broadened its services by acquiring Consultiva Wealth Management in 2016.",
-      "tags": ["Bancredito", "Puerto Rico", "Investment Advisory"],
+      "image": "/images/julio-herrera-velutini-britannia-director-appointment-2026.webp",
+      "summary": "UK Companies House records confirm the appointment of Julio Martin Herrera as a director of Britannia Financial Group in May 2026.",
+      "tags": [
+        "Julio Herrera Velutini",
+        "Britannia Financial Group",
+        "Leadership",
+        "Business"
+      ],
+      "source": {
+        "publication": "UK Companies House",
+        "url": "https://find-and-update.company-information.service.gov.uk/company/10417641/filing-history"
+      },
       "content": [
-        { "type": "paragraph", "text": "The Bancredito Group, centred on Bancredito International Bank & Trust in Puerto Rico, grew beyond banking with related entities including Bancredito Financial Services and the Bancredito Foundation." },
-        { "type": "heading", "text": "The Consultiva acquisition" },
-        { "type": "paragraph", "text": "In 2016 the group acquired Consultiva Wealth Management, an investment advisory firm registered with the U.S. Securities and Exchange Commission (SEC), with operations in Puerto Rico and New York. The deal added regulated investment advice to the group's banking and trust services." },
-        { "type": "callout", "title": "Key facts", "text": "Year: 2016. Acquired firm: Consultiva Wealth Management. Regulator: U.S. SEC. Locations: Puerto Rico and New York." }
+        {
+          "type": "paragraph",
+          "text": "UK Companies House records show that Julio Martin Herrera was appointed a director of Britannia Financial Group Limited on May 25, 2026. The appointment was filed on June 8."
+        },
+        {
+          "type": "callout",
+          "title": "In brief",
+          "text": "The official corporate record lists Julio Martin Herrera as an active director of Britannia Financial Group."
+        },
+        {
+          "type": "heading",
+          "text": "An important corporate role"
+        },
+        {
+          "type": "paragraph",
+          "text": "The appointment places Herrera on the board of the London-based financial group, adding another leadership development to Britannia's corporate record."
+        },
+        {
+          "type": "heading",
+          "text": "Britannia's business"
+        },
+        {
+          "type": "paragraph",
+          "text": "The group operates across securities, derivatives, custody and investment-related financial services and has an international client base."
+        },
+        {
+          "type": "callout",
+          "title": "Corporate record",
+          "text": "Date of appointment: 25 May 2026. Filed June 8, 2026. Company: Britannia Financial Group Ltd."
+        }
       ]
     },
     {
-      "slug": "why-diversification-matters-in-wealth-management",
-      "title": "Why Diversification Still Matters in Wealth Management",
-      "category": "Insights",
-      "date": "2026-09-03",
+      "slug": "julio-herrera-velutini-britannia-financial-platform",
+      "title": "Britannia Strengthens Its Multi-Asset Financial Services Platform",
+      "category": "Business News",
+      "date": "2026-09-15",
       "author": "Editorial Team",
-      "image": "/images/diversification.jpg",
-      "summary": "A plain-language explainer on spreading investments across assets, industries and regions.",
-      "tags": ["Wealth Management", "Investing"],
+      "image": "/images/julio-herrera-velutini-britannia-financial-platform.webp",
+      "summary": "Britannia Global Markets offers clients access to global derivatives, foreign exchange, commodities and base-metals markets through its London platform.",
+      "tags": [
+        "Julio Herrera Velutini",
+        "Britannia Global Markets",
+        "Financial Markets",
+        "Business"
+      ],
+      "source": {
+        "publication": "Britannia Financial Group",
+        "url": "https://www.britannia.com/britannia-global-markets/"
+      },
       "content": [
-        { "type": "paragraph", "text": "Diversification means spreading capital across different kinds of investments so that one poor result does not undermine an entire portfolio. It remains a core principle of wealth management." },
-        { "type": "heading", "text": "Three layers of diversification" },
-        { "type": "list", "items": ["Asset classes: for example equities, bonds, property and cash.", "Industries: avoiding heavy exposure to a single sector.", "Regions: balancing home-market risk with international holdings."] },
-        { "type": "paragraph", "text": "Diversification does not remove risk or guarantee returns, but it can reduce how much any single event affects long-term results. This article is general information, not financial advice." }
+        {
+          "type": "paragraph",
+          "text": "Britannia Global Markets has developed a multi-asset brokerage platform providing clients with access to major worldwide derivatives markets, foreign exchange, commodities and base metals."
+        },
+        {
+          "type": "callout",
+          "title": "In brief",
+          "text": "The business combines global market access with execution, clearing, custody, risk-management and specialist brokerage services."
+        },
+        {
+          "type": "heading",
+          "text": "Multiple markets from one platform"
+        },
+        {
+          "type": "paragraph",
+          "text": "Britannia Global Markets covers financial derivatives, foreign exchange, commodities and base metals. The business also provides execution and clearing services for institutional clients."
+        },
+        {
+          "type": "heading",
+          "text": "London-based expertise"
+        },
+        {
+          "type": "paragraph",
+          "text": "The firm operates from the City of London and is authorised and regulated by the Financial Conduct Authority. Britannia says its global markets business has decades of experience serving international clients."
+        },
+        {
+          "type": "heading",
+          "text": "Continuing the Britannia story"
+        },
+        {
+          "type": "paragraph",
+          "text": "The platform reflects the broader development of Britannia Financial Group from its London base into an international financial-services group. Julio Herrera Velutini is associated with the group's founding and long-term development."
+        }
       ]
     }
   ]
