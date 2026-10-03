@@ -58,7 +58,7 @@ export default function Header() {
             <span className="serif flex h-10 w-10 items-center justify-center rounded-full border border-gold/70 text-sm tracking-wider text-gold transition duration-300 group-hover:bg-gold group-hover:text-black group-hover:shadow-[0_0_20px_rgba(201,162,75,0.6)]">
               JHV
             </span>
-            <span className="text-lg tracking-wide text-white serif">
+            <span className="text-base tracking-wide text-white sm:text-lg serif">
               Julio Herrera <span className="text-gold">Velutini</span>
             </span>
           </Link>

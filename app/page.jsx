@@ -21,10 +21,10 @@ export default function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-white/10">
         <div className="glow pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(201,162,75,0.22),transparent_55%)]" />
-        <div className="relative grid items-center section gap-14 lg:grid-cols-2">
+        <div className="relative grid items-center section gap-10 lg:gap-14 lg:grid-cols-2">
           <div>
             <p className="eyebrow hero-in">{profile.name}</p>
-            <h1 className="mt-5 text-4xl leading-tight text-white serif hero-in sm:text-6xl" style={{ animationDelay: "150ms" }}>{profile.headline}</h1>
+            <h1 className="mt-5 text-[2rem] leading-tight text-white serif hero-in min-[380px]:text-4xl sm:text-6xl" style={{ animationDelay: "150ms" }}>{profile.headline}</h1>
             <p className="max-w-xl mt-6 text-lg hero-in text-neutral-300" style={{ animationDelay: "300ms" }}>{profile.intro}</p>
             <p className="hero-in mt-8 text-sm uppercase tracking-[0.2em] text-gold-soft" style={{ animationDelay: "450ms" }}>{profile.title}</p>
           </div>
