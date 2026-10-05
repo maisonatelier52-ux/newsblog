@@ -88,13 +88,7 @@ export default function Header() {
           </nav>
 
           {/* Mobile menu button */}
-          <button
-            type="button"
-            aria-label="Open menu"
-            aria-expanded={open}
-            onClick={() => setOpen(true)}
-            className="group flex h-10 w-10 flex-col items-center justify-center gap-[5px] rounded-full border border-white/15 transition hover:border-gold md:hidden"
-          >
+          <button type="button" aria-label="Open menu" aria-expanded={open} onClick={() => setOpen(true)} className="group flex h-10 w-10 flex-col items-center justify-center gap-[5px] rounded-full border border-white/15 transition hover:border-gold md:hidden">
             <span className="w-5 h-px transition-all duration-300 bg-white group-hover:w-6 group-hover:bg-gold" />
             <span className="w-4 h-px transition-all duration-300 bg-white group-hover:w-6 group-hover:bg-gold" />
             <span className="w-5 h-px transition-all duration-300 bg-white group-hover:w-6 group-hover:bg-gold" />
@@ -126,15 +120,8 @@ export default function Header() {
 
         {/* Top row: name + close button */}
         <div className="relative flex items-center justify-between px-6 py-5 border-b border-white/10">
-          <span className="text-lg text-white serif">
-            Julio Herrera <span className="text-gold">Velutini</span>
-          </span>
-          <button
-            type="button"
-            aria-label="Close menu"
-            onClick={() => setOpen(false)}
-            className="flex items-center justify-center w-10 h-10 text-white transition border rounded-full group border-white/15 hover:rotate-90 hover:border-gold hover:text-gold"
-          >
+          <span className="text-lg text-white serif">Julio Herrera <span className="text-gold">Velutini</span></span>
+          <button type="button" aria-label="Close menu" onClick={() => setOpen(false)} className="flex items-center justify-center w-10 h-10 text-white transition border rounded-full group border-white/15 hover:rotate-90 hover:border-gold hover:text-gold">
             <span className="text-xl leading-none">&times;</span>
           </button>
         </div>
@@ -164,10 +151,7 @@ export default function Header() {
         </nav>
 
         {/* Bottom note */}
-        <div
-          style={{ transitionDelay: open ? "550ms" : "0ms" }}
-          className={`relative border-t border-white/10 px-6 py-6 text-xs uppercase tracking-[0.2em] text-gold-soft transition duration-500 ${open ? "opacity-100" : "opacity-0"}`}
-        >
+        <div style={{ transitionDelay: open ? "550ms" : "0ms" }} className={`relative border-t border-white/10 px-6 py-6 text-xs uppercase tracking-[0.2em] text-gold-soft transition duration-500 ${open ? "opacity-100" : "opacity-0"}`}>
           Banker &nbsp;|&nbsp; Founder, Britannia Financial Group
         </div>
       </aside>

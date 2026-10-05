@@ -34,7 +34,7 @@ export default function Footer() {
             <span className="text-xl text-white serif">Julio Herrera <span className="text-gold">Velutini</span></span>
           </Link>
           <p className="max-w-sm mt-5 text-sm leading-relaxed text-neutral-400">
-            Banker and founder of Britannia Financial Group, with more than three decades of experience in international banking and wealth management.
+            Banker and founder of Britannia Financial Group with more than 30 years of experience in international banking and wealth management.
           </p>
           <div className="flex flex-wrap gap-2 mt-6">
             {["Private Banking", "Wealth Management", "Geneva", "London"].map((t) => (
@@ -78,7 +78,7 @@ export default function Footer() {
       <div className="relative border-t border-white/10">
         <div className="flex flex-col items-center justify-between max-w-6xl gap-4 px-5 py-6 mx-auto text-xs text-neutral-500 sm:flex-row">
           <p>&copy; {new Date().getFullYear()} Julio Herrera Velutini. All rights reserved.</p>
-          <p className="text-center">Biographical details are compiled from public sources.</p>
+          {/* <p className="text-center">Biographical details are compiled from public sources.</p> */}
           <BackToTop />
         </div>
       </div>
